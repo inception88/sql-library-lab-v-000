@@ -3,7 +3,7 @@ CREATE TABLE series (
   title TEXT
 );
 
-CREATE TABLE sub-genre (
+CREATE TABLE subgenres (
   id INTEGER PRIMARY KEY,
   title TEXT
 );
