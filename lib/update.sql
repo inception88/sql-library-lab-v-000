@@ -1,1 +1,1 @@
-UPDATE characters SET name = "Martian" WHERE name = 
+UPDATE characters SET name = "Martian" WHERE id = 16;
